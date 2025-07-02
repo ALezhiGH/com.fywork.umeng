@@ -1,0 +1,16 @@
+{
+    "name": "Fywork.Umeng.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe15560e37875664fb12271e1d97fbdc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
